@@ -2,7 +2,7 @@
 
 **Use Codex as your Architect. Use Claude Agent Teams as your engineering workforce.**
 
-A skill pack for orchestrating AI-powered software development at scale. Codex's massive context window and thoroughness makes it the perfect architect — it holds the entire design in its head, debugs Claude's work, and never loses track of the big picture. Claude's Agent Teams execute the plan in parallel with surgical precision.
+A skill pack for orchestrating AI-powered software development at scale. Codex's amazing context management and thoroughness makes it the perfect architect — it holds the entire design in its head, debugs Claude's work, and never loses track of the big picture. Claude's Agent Teams execute the plan in parallel, acting as stateless sessions.
 
 ```
  ╔══════════════════════════════════════════════════════════════════════╗
